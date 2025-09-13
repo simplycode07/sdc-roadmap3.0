@@ -42,12 +42,14 @@ Contact me
 ===
 <!-- column_layout: [1, 1] -->
 <!-- column: 0 -->
+# Github
 ```bash +exec
 echo 'https://github.com/simplycode07' | qrencode -t utf8i -l M
 
 ```
 
 <!-- column: 1 -->
+# LinkedIn
 ```bash +exec
 echo 'https://linkedin.com/dhruvdubey32' | qrencode -t utf8i -l M
 
