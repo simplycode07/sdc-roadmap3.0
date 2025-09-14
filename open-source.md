@@ -26,7 +26,7 @@ Why Care about Open Source
 # you need it
 - vlc
 - chromium
-- andriod
+- android
 
 # big companies rely on it
 - almost all the programming languages
@@ -35,6 +35,14 @@ Why Care about Open Source
 - real world software development experience
 - *connections*
 
+<!-- end_slide -->
+
+How to contribute
+===
+# Using the software
+# Raising Issues
+# Solving Issue
+# Implementing New Features
 
 <!-- end_slide -->
 
