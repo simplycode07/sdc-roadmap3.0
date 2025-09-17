@@ -1,10 +1,17 @@
----
-title: "*Open Source*"
-sub_title: "Made in presenterm"
-author: "Tushar gupta, Member of SDC"
----
 
-![image:width:100%](images/meme.jpeg)
+![image:width:20%](images/main.jpg)
+<!-- font_size: 5 -->
+<!-- jump_to_middle -->
+Open Source
+===
+
+<!-- font_size: 2 -->
+<!-- alignment: center -->
+Made in Presenterm
+<!-- new_lines: 10-->
+<!-- font_size: 2 -->
+Tushar Gupta, Member of SDC
+
 <!-- end_slide -->
 
 <!-- new_lines: 2-->
@@ -46,6 +53,9 @@ What is Open Source?
 ![image:width:60%](images/main-img.png)
 <!-- end_slide -->
 
+![image:width:100%](images/meme.jpeg)
+
+<!-- end_slide -->
 <!-- new_lines: 2-->
 <!-- font_size: 4 -->
 The Open Source Ecosystem
@@ -117,7 +127,8 @@ Open Source Projects
 ![image:width:100%](images/meme3.png)
 <!-- end_slide -->
 
-![image:width:90%](images/test.png)
+![image:width:50%](images/linux.jpeg)
+![image:width:50%](images/stats.png)
 <!-- end_slide -->
 
 
@@ -175,6 +186,46 @@ How to Get Involved
 
 <!-- end_slide -->
 
+<!-- new_lines: 3-->
+<!-- alignment: center-->
+<!-- font_size: 5-->
+Competitions & Programs
+===
+![image:width:90%](images/money.jpg)
+<!-- end_slide -->
+
+<!-- new_lines: 3-->
+
+<!-- alignment: center-->
+<!-- column_layout: [1,1] -->
+<!-- column: 0-->
+
+![image:width:70%](images/gsoc.png)
+<!-- font_size: 3-->
+<!-- new_lines: 1-->
+### Starts From March
+### *Stripend* : $1,200
+<!-- new_lines: 2-->
+
+<!-- font_size: 3-->
+<!-- new_lines: 1-->
+### Starts From December
+### *Stripend*: €500 – €1200
+![image:width:70%](images/sok.png)
+<!-- column: 1-->
+
+<!-- new_lines: 5-->
+
+<!-- font_size: 3-->
+### Starts From July
+### *Stripend*: ₹20,000 – ₹40,000
+
+![image:width:50%](images/red.png)
+<!-- end_slide -->
+
+<!-- font_size: 3-->
+
+
 <!-- new_lines: 2-->
 <!-- font_size: 6 -->
 <!-- jump_to_middle -->
@@ -185,7 +236,7 @@ One More thing about this PPT
 <!-- new_lines: 4-->
 <!-- font_size: 3 -->
 ### This PPT is hosted on a Raspberry Pi (Opensource)
-### This PPT is made on Preseterm (Opensource)
+### This PPT is made on Presenterm (Opensource)
 ### You can view this PPT by going to this link :
 <!-- reset_layout -->
 <!-- font_size: 2 -->
@@ -195,7 +246,7 @@ One More thing about this PPT
 <!-- column: 1-->
 
 ```bash +exec
-echo 'http://192.168.0.0:1234' | qrencode -t utf8i -l M
+echo 'http://192.168.0.0:1234/pdf' | qrencode -t utf8i -l M
 ```
 <!-- end_slide -->
 <!-- font_size: 4 -->
