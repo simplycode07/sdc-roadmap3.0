@@ -124,6 +124,9 @@ Open Source Projects
 ![image:width:50%](images/stats.png)
 <!-- end_slide -->
 
+![image:width:100%](images/opensource-phone.jpeg)
+<!-- end_slide -->
+
 
 <!-- font_size: 4 -->
 How to Get Involved
@@ -166,6 +169,18 @@ How to Get Involved
 
 <!-- end_slide -->
 
+<!-- font_size: 4 -->
+What Not to do?
+===
+
+![image:width:100%](images/apna.jpeg)
+![image:width:100%](images/apna2.jpeg)
+<!-- end_slide -->
+
+<!-- alignment: center-->
+
+![image:width:100%](images/update.jpeg)
+<!-- end_slide -->
 <!-- new_lines: 3-->
 <!-- alignment: center-->
 <!-- font_size: 5-->
