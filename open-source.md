@@ -259,8 +259,14 @@ One More thing about this PPT
 <!-- column_layout: [1, 2] -->
 <!-- column: 0-->
 
+<!-- font_size: 3 -->
+
+<!-- new_lines: 4-->
+#### SSID - tushar
+#### password - test69!!
 <!-- column: 1-->
 
+<!-- font_size: 2 -->
 ```bash +exec
 echo 'http://192.168.0.0:1234/pdf' | qrencode -t utf8i -l M
 ```
