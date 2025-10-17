@@ -117,7 +117,7 @@ The Open Source Ecosystem
 Open Source Projects
 ===
 <!-- end_slide -->
-![image:width:100%](images/meme3.jpeg)
+![image:width:100%](images/ffmepg-2.jpeg)
 <!-- end_slide -->
 
 ![image:width:50%](images/linux.jpeg)
