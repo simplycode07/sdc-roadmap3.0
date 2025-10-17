@@ -262,13 +262,13 @@ One More thing about this PPT
 <!-- font_size: 3 -->
 
 <!-- new_lines: 4-->
-#### SSID - tushar
-#### password - test69!!
+#### SSID - Dhruv's A17
+#### password - brrr54333
 <!-- column: 1-->
 
 <!-- font_size: 2 -->
 ```bash +exec
-echo 'http://192.168.0.0:1234/pdf' | qrencode -t utf8i -l M
+echo 'http://10.71.228.105:1234/pdf' | qrencode -t utf8i -l M
 ```
 <!-- end_slide -->
 <!-- font_size: 4 -->
